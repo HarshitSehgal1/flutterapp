@@ -13,8 +13,7 @@ jobs:
         inputs:
           target: 'apk'
           projectDirectory: '.'
-          entryPoint: "lib/main.dart"
-          iosCodesign: false
+
 
       - task: FlutterTest@0
         inputs:
