@@ -19,3 +19,4 @@ steps:
   inputs:
     target: 'apk'
     projectDirectory: '.'
+    flutterDirectory: 'C:\Users\HarshitSinghSehgal\flutter'
